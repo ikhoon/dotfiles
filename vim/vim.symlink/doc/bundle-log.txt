@@ -1,0 +1,47 @@
+*bundle-log.txt*                   Bundle Install Log
+
+
+Logs bundle install activity. Also see the list of installed |bundles|.
+
+Wed Jul 10 20:41:36 KST 2013 by vim-update-bundles 0.8
+ Add |vundle|                   0.9.1-48-g769010a  https://github.com/gmarik/vundle.git
+ Add |YankRing.vim|             17.0               https://github.com/vim-scripts/YankRing.vim.git
+ Add |vim-quickrun|             v0.6.0-75-gd8193a1 http://github.com/thinca/vim-quickrun.git
+ Add |vim-poslist|              a971f53bbf154      http://github.com/thinca/vim-poslist.git
+ Add |vim-easymotion|           1.3                https://github.com/Lokaltog/vim-easymotion.git
+ Add |gist-vim|                 old_api-129-g926e117 http://github.com/mattn/gist-vim.git
+ Add |jQuery|                   0.5.2              https://github.com/vim-scripts/jQuery.git
+ Add |rails.vim|                5.0                https://github.com/vim-scripts/rails.vim.git
+ Add |cucumber.zip|             1.0                https://github.com/vim-scripts/cucumber.zip.git
+ Add |Markdown|                 1.2.2              https://github.com/vim-scripts/Markdown.git
+ Add |vim-json|                 47946093993ae      https://github.com/helino/vim-json.git
+ Add |vim-jade|                 189914b02e82e      https://github.com/digitaltoad/vim-jade.git
+ Add |vim-scala|                c81f87ca67861      https://github.com/derekwyatt/vim-scala.git
+ Add |vim-golang|               e4f4d6ded00b4      https://github.com/jnwhiteh/vim-golang.git
+ Add |git.zip|                  5.0                https://github.com/vim-scripts/git.zip.git
+ Add |vim-fugitive|             v1.2-206-g00b0916  https://github.com/tpope/vim-fugitive.git
+ Add |vim-gitgutter|            ff031d022f212      https://github.com/airblade/vim-gitgutter.git
+ Add |ragtag.vim|               2.0                https://github.com/vim-scripts/ragtag.vim.git
+ Add |repeat.vim|               1.1                https://github.com/vim-scripts/repeat.vim.git
+ Add |surround.vim|             2.0                https://github.com/vim-scripts/surround.vim.git
+ Add |file-line|                1.0                https://github.com/vim-scripts/file-line.git
+ Add |Align|                    37-43              https://github.com/vim-scripts/Align.git
+ Add |hexHighlight.vim|         1.0                https://github.com/vim-scripts/hexHighlight.vim.git
+ Add |ctrlp.vim|                1.79-22-gdaf0c01   https://github.com/kien/ctrlp.vim.git
+ Add |syntastic|                3.0.0-177-g9f7d5d7 https://github.com/scrooloose/syntastic.git
+ Add |ZoomWin|                  24@1               https://github.com/vim-scripts/ZoomWin.git
+ Add |ack.vim|                  0.3.1              https://github.com/vim-scripts/ack.vim.git
+ Add |tComment|                 2.08               https://github.com/vim-scripts/tComment.git
+ Add |command-t|                1.4-11-g8866bbc    git://git.wincent.com/command-t.git
+ Add |vim-visual-star-search|   0.2-3-gcf0b590     http://github.com/gmarik/vim-visual-star-search.git
+ Add |vim-coffee-script|        v002-34-g089506e   https://github.com/kchmck/vim-coffee-script.git
+ Add |vim-colors-solarized|     528a59f26d122      https://github.com/altercation/vim-colors-solarized.git
+ Add |vim-airline|              65664efe13fb4      https://github.com/bling/vim-airline.git
+ Add |vim-bufferline|           v0.3-1-g958c6be    https://github.com/bling/vim-bufferline.git
+ Add |rainbow_parentheses.vim|  eb8baa5428bde      https://github.com/kien/rainbow_parentheses.vim.git
+ Add |vim-addon-mw-utils|       0c5612fa31ee4      https://github.com/MarcWeber/vim-addon-mw-utils.git
+ Add |tlib_vim|                 1.04-38-g70e614d   https://github.com/tomtom/tlib_vim.git
+ Add |snipmate-snippets|        15cb6bf4fad5b      https://github.com/scrooloose/snipmate-snippets.git
+ Add |vim-snipmate|             v0.86-1-g54acd6a   https://github.com/garbas/vim-snipmate.git
+   39 bundles added
+

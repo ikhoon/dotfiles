@@ -1,0 +1,48 @@
+*bundles* *bundles.txt*            Installed Bundles
+
+
+Lists the currently installed bundles. Also see the |bundle-log|.
+Last updated by vim-update-bundles on Wed Jul 10 20:41:36 KST 2013.
+
+  PLUGIN                           VERSION                RELEASE DATE
+------------------------------------------------------------------------
+  |vundle|                         0.9.1-48-g769010a      2013-04-21
+  |YankRing.vim|                   17.0                   2013-04-28
+  |vim-quickrun|                   v0.6.0-75-gd8193a1     2013-06-30
+  |vim-poslist|                    a971f53bbf154          2011-07-24
+  |vim-easymotion|                 1.3                    2011-11-07
+  |gist-vim|                       old_api-129-g926e117   2013-06-11
+  |jQuery|                         0.5.2                  2011-05-29
+  |rails.vim|                      5.0                    2013-04-01
+  |cucumber.zip|                   1.0                    2010-02-15
+  |Markdown|                       1.2.2                  2011-03-03
+  |vim-json|                       47946093993ae          2012-02-17
+  |vim-jade|                       189914b02e82e          2013-06-27
+  |vim-scala|                      c81f87ca67861          2013-04-26
+  |vim-golang|                     e4f4d6ded00b4          2013-03-26
+  |git.zip|                        5.0                    2009-12-22
+  |vim-fugitive|                   v1.2-206-g00b0916      2013-06-23
+  |vim-gitgutter|                  ff031d022f212          2013-04-24
+  |ragtag.vim|                     2.0                    2010-02-08
+  |repeat.vim|                     1.1                    2013-01-01
+  |surround.vim|                   2.0                    2013-01-01
+  |file-line|                      1.0                    2012-02-09
+  |Align|                          37-43                  2012-06-18
+  |hexHighlight.vim|               1.0                    2010-01-21
+  |ctrlp.vim|                      1.79-22-gdaf0c01       2013-07-04
+  |syntastic|                      3.0.0-177-g9f7d5d7     2013-07-10
+  |ZoomWin|                        24@1                   2012-06-18
+  |ack.vim|                        0.3.1                  2009-04-21
+  |tComment|                       2.08                   2012-12-28
+  |command-t|                      1.4-11-g8866bbc        2013-04-16
+  |vim-visual-star-search|         0.2-3-gcf0b590         2010-10-17
+  |vim-coffee-script|              v002-34-g089506e       2012-10-06
+  |vim-colors-solarized|           528a59f26d122          2011-05-09
+  |vim-airline|                    65664efe13fb4          2013-07-09
+  |vim-bufferline|                 v0.3-1-g958c6be        2013-06-21
+  |rainbow_parentheses.vim|        eb8baa5428bde          2013-03-04
+  |vim-addon-mw-utils|             0c5612fa31ee4          2012-11-05
+  |tlib_vim|                       1.04-38-g70e614d       2013-05-23
+  |snipmate-snippets|              15cb6bf4fad5b          2011-02-21
+  |vim-snipmate|                   v0.86-1-g54acd6a       2013-07-02
+
